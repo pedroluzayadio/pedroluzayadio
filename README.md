@@ -252,3 +252,31 @@ Telecommunications
 Mobile Networks
 Multimedia
 Marketing & Communication
+
+---
+
+## 🌍 Languages
+
+- 🇵🇹 **Portuguese**: C2 (Proficient)
+- 🇬🇧 **English**: C1 (Advanced)
+- 🇫🇷 **French**: B1 (Intermediate)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to exciting opportunities, freelance projects, or technical discussions. Whether you're looking for a dedicated profissional to join your team or need expertise on a specific project, I'd love to hear from you!
+
+📧 **Get in touch**: [pedrokimbembiluzayadio@gmail.com](mailto:pedrokimbembiluzayadio@gmail.com)  
+💼 **LinkedIn**: [Connect with me](https://lnk.dev/KJhK)  
+📱 **Phone**: [+55 (11) 92092-0205](tel:+5511920920205)
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=pedroluzayadio&color=blueviolet&style=flat-square)
+
+</div>
