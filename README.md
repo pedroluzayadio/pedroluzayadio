@@ -269,7 +269,7 @@ Marketing & Communication
 I'm always open to exciting opportunities, freelance projects, or technical discussions. Whether you're looking for a dedicated profissional to join your team or need expertise on a specific project, I'd love to hear from you!
 
 📧 **Get in touch**: [pedrokimbembiluzayadio@gmail.com](mailto:pedrokimbembiluzayadio@gmail.com)  
-💼 **LinkedIn**: [Connect with me](https://lnk.dev/KJhK](https://www.linkedin.com/in/pedrokimbembiluzayadio/)  
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/pedrokimbembiluzayadio/)  
 📱 **Phone**: [+55 (11) 92092-0205](tel:+5511920920205)
 
 ---
