@@ -45,7 +45,7 @@ I believe technology is not only about writing code. It is about understanding p
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Portugol](https://img.shields.io/badge/Portugol-Advanced-333333?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-00599C?style=flat-square&logo=openjdk&logoColor=white)
 
 ### **Artificial Intelligence & Data**
 
