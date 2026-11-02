@@ -4,8 +4,8 @@
 
 ### 💻 Software Engineering Student | Technology & Innovation | AI & Prompt Engineering | Marketing & Communication
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOCA_AQUI_O_TEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](COLOCA_AQUI_O_TEU_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrokimbembiluzayadio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedroluzayadio)
 [![Location](https://img.shields.io/badge/Location-S%C3%A3o%20Paulo%2C%20Brazil-009C3B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -41,10 +41,11 @@ I believe technology is not only about writing code. It is about understanding p
 ### **Programming & Software Development**
 
 ![C](https://img.shields.io/badge/C-Intermediate-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Learning-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
-![Portugol](https://img.shields.io/badge/Portugol-Learning-333333?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Basic-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![Portugol](https://img.shields.io/badge/Portugol-Advanced-333333?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-4479A1?style=flat-square&logo=java&logoColor=white)
 
 ### **Artificial Intelligence & Data**
 
