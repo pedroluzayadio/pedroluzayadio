@@ -252,6 +252,7 @@ Telecommunications
 Mobile Networks
 Multimedia
 Marketing & Communication
+```
 
 ---
 
